@@ -1,0 +1,9 @@
+
+android/** linguist-generated
+ios/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+windows/** linguist-generated
+web/** linguist-generated
+
+*.lock linguist-generated

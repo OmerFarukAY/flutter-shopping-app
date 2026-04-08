@@ -20,6 +20,13 @@ The application is architected to handle real-time network requests, JSON parsin
 
 ---
 
+## 🎨 UI Previews
+<img width="270" height="735" alt="image" src="https://github.com/user-attachments/assets/ae8875ce-8b3f-49b9-a284-570171447efc" />
+<img width="270" height="735" alt="image" src="https://github.com/user-attachments/assets/2f0407f7-3aad-4a5e-8a25-5844eecd1b5f" />
+<img width="270" height="735" alt="image" src="https://github.com/user-attachments/assets/554904f9-178c-4d36-9ac6-a3cc06c8d16c" />
+
+---
+
 ## 🛠️ Technologies & Architecture
 * **Framework:** [Flutter](https://flutter.dev/)
 * **Language:** Dart
